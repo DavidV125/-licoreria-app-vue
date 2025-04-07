@@ -80,12 +80,12 @@ The productos.js file contains both the product data and login credentials. You 
 ![image](https://github.com/user-attachments/assets/63107e1f-cd60-4392-842d-50dfa4e77286)
 
 ## 🔗 Versiones relacionadas / Related Versions
-✅ Versión adaptada para GitHub Pages (sin autenticación ni JSON Server):
-Repo: https://github.com/DavidV125/licoreria-vue-sin-api
-Link GH Pages: davidv125.github.io/licoreria-vue-sin-api/
+- ✅ Versión adaptada para GitHub Pages (sin autenticación ni JSON Server):
+- Repo: https://github.com/DavidV125/licoreria-vue-sin-api
+- Link GH Pages: davidv125.github.io/licoreria-vue-sin-api/
 
 ## 👤 Autor / Author
-David Villacura
-Frontend Developer Trainee
-📧 davvillacura@gmail.com
-🌐 GitHub Profile: https://github.com/DavidV125
+- David Villacura
+- Frontend Developer Trainee
+- 📧 davvillacura@gmail.com
+- 🌐 GitHub Profile: https://github.com/DavidV125
