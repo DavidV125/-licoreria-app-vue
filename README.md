@@ -46,7 +46,7 @@ A web application built with Vue 3, Pinia, and Vite that simulates a liquor stor
 
 1. **Clona el repositorio** / Clone the repository:
    ```bash
-   git clone https://github.com/DavidV125/licoreria-app-vue.git
+   git clone https://github.com/DavidV125/liquor-store-app-vue.git
    cd licoreria-app-vue
 2. Instala dependencias / Install dependencies:
   bash
@@ -81,8 +81,8 @@ The productos.js file contains both the product data and login credentials. You 
 
 ## 🔗 Versiones relacionadas / Related Versions
 - ✅ Versión adaptada para GitHub Pages (sin autenticación ni JSON Server):
-- Repo: https://github.com/DavidV125/licoreria-vue-sin-api
-- Link GH Pages: davidv125.github.io/licoreria-vue-sin-api/
+- Repo: https://github.com/DavidV125/liquor-store-vue-no-api
+- Link GH Pages: davidv125.github.io/liquor-store-vue-no-api/
 
 ## 👤 Autor / Author
 - David Villacura
