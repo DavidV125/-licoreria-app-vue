@@ -1,0 +1,115 @@
+{
+"usuarios":[
+{
+"user":"elfar@edutecno.com",
+"pass":123
+},
+{
+"user":"salome@edutecno.com",
+"pass":456
+},
+{
+"user":"david",
+"pass":123
+},
+{
+"user":"nubia@edutecno.com",
+"pass":789
+}
+],
+"nosotros":{
+"carrousel":[
+{
+"titulo":"Crema Barceló",
+"imagen":"https://vinopremier.com/media/catalog/product/b/a/barcel_-cream-vinopremier.jpg"
+},
+{
+"titulo":"Pacharán Otaola",
+"imagen":"https://vinopremier.com/media/catalog/product/cache/070e1948fa79794c1092c01c58a07334/1/5/1552706936.jpeg"
+},
+{
+"titulo":"Amareto Disaronno",
+"imagen":"https://vinopremier.com/media/catalog/product/cache/070e1948fa79794c1092c01c58a07334/1/5/1544795790.jpeg"
+},
+{
+"titulo":"Limoncello Villa Massa",
+"imagen":"https://vinopremier.com/media/catalog/product/cache/070e1948fa79794c1092c01c58a07334/1/5/1552431161.jpeg"
+},
+{
+"titulo":"Absenta Black",
+"imagen":"https://vinopremier.com/media/catalog/product/cache/070e1948fa79794c1092c01c58a07334/1/5/1551321050.jpeg"
+},
+{
+"titulo":"Anis Asturiana Dulce",
+"imagen":"https://vinopremier.com/media/catalog/product/cache/070e1948fa79794c1092c01c58a07334/l/i/licor-miura-anis-dulce-vinopremier.jpg"
+}
+],
+"tiposlicores":[
+{
+"nombre":"Chartreuse",
+"texto":"El licor de hierbas Chartreuse Amarillo es una bebida espirituosa de origen francés que se elabora a partir de una receta secreta de monjes cartujos desde hace más de 400 años. Este licor es conocido por su sabor dulce y suave, con notas de miel, hierbas y especias.",
+"imagen":"https://vinopremier.com/media/catalog/product/cache/070e1948fa79794c1092c01c58a07334/1/5/1551504077.jpeg"
+},
+{
+"nombre":"Jagermeister",
+"texto":"Producido en la ciudad de Wolfenbüttel, Alemania, Jägermeister deriva de 56 hierbas, especias, frutas y raíces de todo el mundo y se está volviendo muy popular en todo el mundo. ",
+"imagen":"https://vinopremier.com/media/catalog/product/cache/070e1948fa79794c1092c01c58a07334/1/5/1544725982.jpeg"
+},
+{
+"nombre":"Grand Marnier",
+"texto":"Grand Marnier es un licor triple seco que todavía se produce por la misma familia en Francia. La empresa se jacta de que es el licor más exportado de Francia, además de ser el primer licor exportados desde ese país. Se vende en más de 150 países y se utiliza en una amplia variedad de bebidas y postres.",
+"imagen":"https://vinopremier.com/media/catalog/product/cache/070e1948fa79794c1092c01c58a07334/1/5/1551671139.jpeg"
+}
+]
+},
+"licores":[
+{
+"id":"0",
+"nombre":"Crema de Whisky Baileys",
+"descripcion":"Bebida con gran cuerpo y suavidad a base de malta escocesa original, para tomar sola, mezclar con café o como ingrediente para cócteles y repostería.",
+"grados":"17%",
+"precio":25000,
+"imagen":"https://vinopremier.com/media/catalog/product/cache/070e1948fa79794c1092c01c58a07334/l/i/licor-crema-de-whisky-baileys-irish-vinopremier.jpg"
+},
+{
+"id":"1",
+"nombre":"Crema de Fresa con Tequila",
+"descripcion":"Una crema de fresa y tequila suave y fresquita para disfrutarla en cualquier momento y lugar.",
+"grados":"17%",
+"precio":14000,
+"imagen":"https://vinopremier.com/media/catalog/product/cache/070e1948fa79794c1092c01c58a07334/c/r/cream-de-tequila-cachito-loco-fresa-vinopremier.jpg"
+},
+{
+"id":"2",
+"nombre":"Licor de Hierbas Ruavieja",
+"descripcion":"El licor de hierbas Ruavieja es una bebida alcohólica de alta calidad que se elabora con una cuidadosa selección de hierbas y especias.",
+"grados":"30%",
+"precio":24000,
+"imagen":"https://vinopremier.com/media/catalog/product/cache/070e1948fa79794c1092c01c58a07334/l/i/licor-de-hierbas-ruavieja-vinopremier.jpg"
+},
+{
+"id":"3",
+"nombre":"Licor de Hierbas Terras Celtas",
+"descripcion":"Terras Celtas Licor de Hierbas es un licor tradicional gallego, elaborado a partir de una cuidada selección de hierbas aromáticas y aguardiente de orujo.",
+"grados":"30%",
+"precio":16000,
+"imagen":"https://vinopremier.com/media/catalog/product/cache/070e1948fa79794c1092c01c58a07334/l/i/licor-terras-celtas-hierbas-vinorpemeir.jpg"
+},
+{
+"id":"4",
+"nombre":"Meloncello Crema Cantalupo",
+"descripcion":"Crema Meloncello Dimarco es un licor italiano cremoso con alcohol, elaborado a partir de melón cantalupo.",
+"grados":"17%",
+"precio":10000,
+"imagen":"https://vinopremier.com/media/catalog/product/cache/070e1948fa79794c1092c01c58a07334/l/i/licor-disaronno-velvet-vinopremier_1_.jpg"
+},
+{
+"id":"5",
+"nombre":"Frangelico",
+"descripcion":"Un licor de avellana con sabor principalmente de la destilación de la infusión de avellanas tostadas en alcohol y agua.",
+"grados":"20%",
+"precio":13000,
+"imagen":"https://vinopremier.com/media/catalog/product/cache/070e1948fa79794c1092c01c58a07334/1/5/1544796491.jpeg"
+}
+]
+}
